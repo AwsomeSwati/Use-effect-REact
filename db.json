@@ -1,0 +1,74 @@
+{
+  "lists": [
+    {
+      "id": "1",
+      "name": "Task-1",
+      "isCompleted": false
+    },
+    {
+      "id": "2",
+      "name": "Task-2",
+      "isCompleted": false
+    },
+    {
+      "id": "3",
+      "name": "Task-3",
+      "isCompleted": false
+    },
+    {
+      "name": "swati",
+      "isCompleted": false,
+      "id": "5lqgCRB"
+    },
+    {
+      "name": "asjhdkajdfhlkd",
+      "isCompleted": false,
+      "id": "sK5Qwj3"
+    },
+    {
+      "name": "dfmnbasdjafkjsdf",
+      "isCompleted": false,
+      "id": "35mEhAt"
+    },
+    {
+      "name": "asdasd",
+      "isCompleted": false,
+      "id": "OgNzAU9"
+    },
+    {
+      "name": "dsfasdfdds",
+      "isCompleted": false,
+      "id": "mh_4qFb"
+    },
+    {
+      "name": "sdfsdfsdf",
+      "isCompleted": false,
+      "id": "sBvBAO1"
+    },
+    {
+      "name": "dsfsdfdssdf",
+      "isCompleted": false,
+      "id": "ozmYtc3"
+    },
+    {
+      "name": "sdfsdfdsf",
+      "isCompleted": false,
+      "id": "PkNqw_U"
+    },
+    {
+      "name": "adsfsdfsdf",
+      "isCompleted": false,
+      "id": "5TdrlaX"
+    },
+    {
+      "name": "asdfsdf",
+      "isCompleted": false,
+      "id": "oe74KNE"
+    },
+    {
+      "name": "sadasd",
+      "isCompleted": false,
+      "id": "0LRcvMF"
+    }
+  ]
+}
